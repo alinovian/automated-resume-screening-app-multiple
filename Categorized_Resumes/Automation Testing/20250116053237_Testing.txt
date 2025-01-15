@@ -1,0 +1,36 @@
+John Doe
+123 Main Street, Anytown, ST 99999
+(123) 456-7890 | john@example.com
+
+Penguji Perangkat Lunak QA
+John Doe adalah penguji perangkat lunak yang sangat berpengalaman, dengan latar belakang yang luas dalam pengujian perangkat lunak, pengembangan, dan jaminan kualitas. Dia memiliki rekam jejak yang terbukti dalam mengembangkan strategi pengujian yang efektif yang memastikan hasil yang sukses. Dia memiliki pengalaman yang luas dalam mengembangkan dan menjalankan kasus pengujian, memvalidasi hasil pengujian, dan bekerja dengan tim lintas fungsional untuk memastikan kualitas yang optimal. Keahliannya dalam pengujian manual dan otomatis membuatnya menjadi aset yang tak ternilai bagi tim pengembangan mana pun.
+
+Pengalaman Kerja
+
+Penguji Perangkat Lunak Senior, ABC Solutions, Anytown, ST, 2019-Sekarang
+Mengembangkan dan mengimplementasikan rencana pengujian yang komprehensif, kasus pengujian, dan skrip pengujian untuk aplikasi perangkat lunak.
+Bekerja dengan tim pengembangan untuk memastikan kompatibilitas antara aplikasi perangkat lunak dan sistem.
+Melakukan pengujian manual dan otomatis untuk memastikan akurasi dan keandalan sistem.
+Mengidentifikasi dan melaporkan kerusakan sistem dan merekomendasikan solusi.
+Penguji Perangkat Lunak, XYZ Systems, Anytown, ST, 2017-2019
+Mengembangkan rencana pengujian dan skrip untuk memastikan kualitas aplikasi perangkat lunak.
+Melakukan pengujian manual dan otomatis untuk mendeteksi kesalahan dan cacat sistem.
+Berpartisipasi dalam pertemuan tim lintas fungsional untuk membahas proses dan hasil pengujian.
+Memberikan laporan komprehensif tentang kemajuan dan hasil pengujian.
+Pendidikan
+Gelar Sarjana Ilmu Komputer, Universitas Anytown, Anytown, ST, 2009-2013
+
+Keterampilan
+
+Pengujian Perangkat Lunak
+Otomatisasi Uji
+Analisis Sistem
+Jaminan Kualitas
+Metodologi Agile
+Kolaborasi Tim Lintas Fungsi
+Sertifikasi
+Penguji Perangkat Lunak Bersertifikat (CST)
+Insinyur Kualitas Bersertifikat (CQE)
+
+Bahasa
+Bahasa Inggris (Asli), Bahasa Spanyol (Menengah)

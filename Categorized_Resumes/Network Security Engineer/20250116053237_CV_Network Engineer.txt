@@ -1,0 +1,31 @@
+John Doe adalah seorang teknisi keamanan jaringan yang berpengalaman dengan lebih dari 7 tahun keahlian dalam merancang, mengimplementasikan, dan mengelola infrastruktur keamanan jaringan. Dengan spesialisasi dalam menjaga keamanan sistem jaringan yang penting, John telah bekerja dengan berbagai organisasi untuk melindungi dari ancaman dunia maya, pelanggaran data, dan akses yang tidak sah. Ia ahli dalam menerapkan firewall, sistem deteksi intrusi (IDS), VPN, dan alat pemantauan jaringan untuk memastikan integritas dan keamanan jaringan.
+
+John memiliki gelar dalam Ilmu Komputer dan sertifikasi dalam beberapa domain keamanan dunia maya, termasuk Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), dan Cisco Certified Network Associate (CCNA). Ia memiliki pengalaman yang luas dalam memecahkan masalah dan mengatasi kerentanan jaringan, dan telah memainkan peran penting dalam melakukan audit keamanan dan penilaian risiko.
+
+Keahlian Utama:
+- Arsitektur Keamanan Jaringan
+- Manajemen dan Konfigurasi Firewall
+- Sistem Deteksi dan Pencegahan Intrusi (IDS/IPS)
+- Jaringan Privat Virtual (VPN)
+- Audit Keamanan dan Penilaian Risiko
+- Respons Insiden Keamanan Dunia Maya
+- Pemantauan Jaringan dan Analisis Lalu Lintas
+- Penilaian Kerentanan dan Pengujian Penetrasi
+- Enkripsi Data dan Komunikasi Aman
+
+Sertifikasi:
+- CISSP (Profesional Keamanan Sistem Informasi Bersertifikat)
+- CEH (Peretas Etis Bersertifikat)
+- CCNA (Rekan Jaringan Bersertifikat Cisco)
+- CompTIA Security+
+
+Pendidikan:
+Sarjana Ilmu Komputer, Universitas XYZ, 2012-2016
+
+Pengalaman Profesional:
+- Insinyur Keamanan Jaringan di ABC Corp (2016-Sekarang)
+- Spesialis Keamanan TI di DEF Solutions (2014-2016)
+
+Bahasa:
+- Bahasa Inggris (Lancar)
+- Bahasa Prancis (Menengah)
